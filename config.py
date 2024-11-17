@@ -61,7 +61,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 #---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X
 
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/VICKYCHOUDHARY1/DCxMUSIC")
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/BadshahAk/FIRU")
 
 #---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X
 
@@ -75,10 +75,10 @@ GIT_TOKEN = getenv("GIT_TOKEN", None)
 
 #---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/TEAM_DC_BOTS")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/doll4321")
 
 #---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/TEAM_DC_BOTS")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+Ah01120zwsY0NDk1")
 
 #---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X---X
 
