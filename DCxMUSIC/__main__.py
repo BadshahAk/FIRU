@@ -2,7 +2,6 @@ import asyncio
 import importlib
 
 from pyrogram import idle
-from pytgcalls import NoActiveGroupCall
 
 import config
 from DCxMUSIC import LOGGER, app, userbot
